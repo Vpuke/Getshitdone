@@ -8,7 +8,7 @@
 
  Try it yourself
 
-------> <a href="https://https://getshitdonetodo.netlify.com/">Get shit done</a> <------
+------> <a href="https://getshitdonetodo.netlify.com/">Get shit done</a> <------
 
 
 
